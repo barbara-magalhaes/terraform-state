@@ -1,5 +1,5 @@
 # Terraform Deliverys 
-Repositório para estudo do terraform .
+Repositório para estudo do terraform com AWS.
 
 - o que é o Terraform : é uma ferramenta de infraestrutura como código (IaC) usada para provisionar e gerenciar  recursos de infraestrutura de maneira declarativa.
 
